@@ -14,9 +14,11 @@ My known programming languages include : \
       
 My known programming tools include :\
       - CLI
-![html5](https://user-images.githubusercontent.com/124180535/221639950-b1311189-fd95-48f1-9289-a9eff22c1cb1.svg)
-![css3](https://user-images.githubusercontent.com/124180535/221639968-2772706a-5273-4945-b854-fbd8976bfb21.svg)
-![javascript](https://user-images.githubusercontent.com/124180535/221639926-38aa24fb-3b0b-46bd-afea-144211f4a0e0.svg)
+      
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 🔭 I’m currently working on my software devlopment diploma...
 - 🌱 I’m currently learning JavaScript...
