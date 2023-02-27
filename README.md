@@ -7,12 +7,12 @@ Hello, world. My name is Noah Miller. I am a software developer student in Manit
 
 Before Software Development, I was in culinary arts, competition cooking, and backpacked Australia.
 
-My known programming languages include :
-      - HTML
-      - CSS
-      - JavaScript
-<br>My known programming tools include :
-      - CLI
+My known programming languages include : \
+      - HTML\
+      - CSS\
+      - JavaScript\\
+My known programming tools include :\
+      - CLI\
 
 - 🔭 I’m currently working on my software devlopment diploma...
 - 🌱 I’m currently learning JavaScript...
