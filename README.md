@@ -11,13 +11,15 @@ My known programming languages include : \
       - HTML\
       - CSS\
       - JavaScript
-
+      
+My known programming tools include :\
+      - CLI
+      
 I am currently starting to learn C# through unity student classes. I aspire to work with AR (Augmented Reality) or VR (Virtual Reality)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-My known programming tools include :\
-      - CLI
+
       
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
