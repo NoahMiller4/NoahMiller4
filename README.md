@@ -14,6 +14,9 @@ My known programming languages include : \
       
 My known programming tools include :\
       - CLI
+![html5](https://user-images.githubusercontent.com/124180535/221639950-b1311189-fd95-48f1-9289-a9eff22c1cb1.svg)
+![css3](https://user-images.githubusercontent.com/124180535/221639968-2772706a-5273-4945-b854-fbd8976bfb21.svg)
+![javascript](https://user-images.githubusercontent.com/124180535/221639926-38aa24fb-3b0b-46bd-afea-144211f4a0e0.svg)
 
 - 🔭 I’m currently working on my software devlopment diploma...
 - 🌱 I’m currently learning JavaScript...
