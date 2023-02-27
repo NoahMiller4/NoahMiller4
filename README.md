@@ -11,7 +11,7 @@ My known programming languages include :
       - HTML
       - CSS
       - JavaScript
-My known programming tools include :
+<br>My known programming tools include :
       - CLI
 
 - 🔭 I’m currently working on my software devlopment diploma...
