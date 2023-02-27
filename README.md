@@ -10,7 +10,8 @@ Before Software Development, I was in culinary arts, competition cooking, and ba
 My known programming languages include : \
       - HTML\
       - CSS\
-      - JavaScript\\
+      - JavaScript\
+      
 My known programming tools include :\
       - CLI\
 
