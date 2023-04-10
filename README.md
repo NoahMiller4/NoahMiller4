@@ -1,6 +1,6 @@
 ## About Me! 👋
 
-![maxresrefault](https://wallpaperaccess.com/full/8351163.gif |width=100 height=100)
+![medium](https://wallpaperaccess.com/full/8351163.gif)
 
 Hello, world. My name is Noah Miller. I am a software developer student in Manitoba with a love for tech. I often spend my time building pc's, coding, gaming, drumming and curling. I took one year of Computer Science at the University of Manitoba, and transfered to MITT for Software Development.
 
