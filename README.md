@@ -33,6 +33,11 @@ I am currently just starting to learn C++ and C# through unity student classes. 
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I was on team manitoba for curling...  
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NoahMiller4&show_icons=true&locale=en" alt="NoahMiller4" /></p>
+
+ 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahMiller4&show_icons=true&locale=en&layout=compact" alt="NoahMiller4" /></p>
 <!--
 **NoahMiller4/NoahMiller4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
