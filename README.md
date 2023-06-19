@@ -19,9 +19,6 @@ My known programming languages include : \
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-
-My known programming tools include :\
-      - CLI
       
 I am currently just starting to learn C++ and C# through unity student classes. I aspire to work with AR (Augmented Reality) or VR (Virtual Reality)
 
