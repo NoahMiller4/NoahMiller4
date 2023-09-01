@@ -27,9 +27,9 @@ My known programming languages include: \
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I was on team Manitoba for curling... 
 
-<p><img width="100%" margin="auto"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoahMiller4&show_icons=true&locale=en" alt="NoahMiller4" /></p>
+<p align="center"><img width="55%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoahMiller4&show_icons=true&locale=en" alt="NoahMiller4" /></p>
 
-<p><img width="100%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoahMiller4&show_icons=true&locale=en&layout=compact" alt="NoahMiller4" /></p>
+<p align="center"><img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoahMiller4&show_icons=true&locale=en&layout=compact" alt="NoahMiller4" /></p>
 <!--
 **NoahMiller4/NoahMiller4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
